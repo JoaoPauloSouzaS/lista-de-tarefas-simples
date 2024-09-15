@@ -9,6 +9,9 @@ Todas as tarefas são armazenadas localmente no navegador usando o Local Storage
 - Responsividade;
 - Armazenamento local das tarefas usando Local Storage.
 
+## Projeto online:
+https://joaopaulosouzas.github.io/lista-de-tarefas-simples
+
 ## Tecnologias utilizadas:
 ![image](https://github.com/user-attachments/assets/41cba1c1-fdda-4b11-9094-aedd6308cb95)
 ![image](https://github.com/user-attachments/assets/ea1d90d6-34b2-4d1e-bce6-1bd492cbe503)
