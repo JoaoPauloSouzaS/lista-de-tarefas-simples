@@ -1,4 +1,5 @@
 ## Lista de tarefas | Cuso FullStack Pro - Sujeito Programador
+https://github.com/JoaoPauloSouzaS/lista-de-tarefas-simples/blob/main/Captura%20de%20Tela%20-%20lista%20de%20tarefas.png
 Aplicativo simples de lista de tarefas desenvolvido utilizando HTML, CSS e JavaScript.<br>
 Pincipal funcionalidade do aplicativo é permitir que o usuário insira e delete tarefas.
 Todas as tarefas são armazenadas localmente no navegador usando o Local Storage.
