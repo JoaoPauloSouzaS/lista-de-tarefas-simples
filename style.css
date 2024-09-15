@@ -19,13 +19,13 @@ body{
 #app{
     background-color: #c5c5c5;
     width: 100%;
-    max-width: 560px;
+    max-width: 500px;
     height: 100%;
-    max-height: 750px;
+    max-height: 560px;
     border-radius: 8px;
     text-align: center;
     padding-top: 12px;
-    font-size: 22px;
+    font-size: 18px;
 }
 
 .container{
@@ -42,13 +42,13 @@ body{
     border-radius: 4px;
     padding: 0 12px;
     border: 0;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 .container button{
     height: 40px;
     width: 32%;
-    font-size: 18px;
+    font-size: 16px;
     border-radius: 4px;
     cursor: pointer;
     background-color: #6380ff;
@@ -58,7 +58,7 @@ body{
 }
 
 ul{
-    height: 79%;
+    height: 73%;
     width: 90%;
     margin: 0 auto;
     padding: 10px 0;
@@ -93,12 +93,16 @@ ul li a:hover{
     #app{
         max-width: 340px;
         max-height: 580px;
-        font-size: 18px;
+        font-size: 16px;
     }
     .container input, .container button{
-        font-size: 14px;
+        font-size: 12px;
     }
     ul{
         height: 75%;
+    }
+    ul li{
+        font-size: 14px;
+        width: 93%;
     }
 }
